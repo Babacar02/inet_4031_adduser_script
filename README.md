@@ -25,10 +25,9 @@ babacar03:mypass:Dia:Babacar: admins, reviewers
 1) Before running make sure that the script file is executable which it should be already.
      type >>> $ chmod a+x create-users.py
 2) The command to run the file:
+   
       "sudo ./create-users.py < create-users.input"
-   
-          or
-   
+   or: 
       "cat create-users.input | sudo ./create-users.py"
 
 4) This file is using version python2.
