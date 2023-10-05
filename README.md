@@ -27,7 +27,9 @@ babacar03:mypass:Dia:Babacar: admins, reviewers
 2) The command to run the file:
    
       "sudo ./create-users.py < create-users.input"
-   or: 
+   
+   or
+   
       "cat create-users.input | sudo ./create-users.py"
 
 4) This file is using version python2.
