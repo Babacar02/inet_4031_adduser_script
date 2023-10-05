@@ -1,2 +1,4 @@
 # inet_4031_adduser_script
-code for lab4
+Python Script for Adding Users/Groups to a System
+
+
