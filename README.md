@@ -19,3 +19,15 @@ Regex or regular expression is used to locate or validate specific strings or pa
 
 example:
 babacar03:mypass:Dia:Babacar: admins, reviewers 
+
+## Running the Script
+
+1) Before running make sure that the script file is executable which it should be already.
+     type >>> $ chmod a+x create-users.py
+2) The command to run the file:
+     >>> $ sudo ./create-users.py < create-users.input
+          or
+     >>> $ cat create-users.input | sudo ./create-users.py
+
+3) This file is using version python2.
+   
